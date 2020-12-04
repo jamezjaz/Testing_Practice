@@ -1,0 +1,24 @@
+{
+  "name": "testing_practice",
+  "version": "1.0.0",
+  "description": "This is a practical jest testing exercise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamezjaz/Testing_Practice.git"
+  },
+  "keywords": [
+    "Jest",
+    "Test",
+    "JavaScript"
+  ],
+  "author": "Odufu James Chigozie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jamezjaz/Testing_Practice/issues"
+  },
+  "homepage": "https://github.com/jamezjaz/Testing_Practice#readme"
+}
