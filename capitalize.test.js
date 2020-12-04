@@ -5,5 +5,5 @@ test('returns the first letter capitalized', () => {
 });
 
 test('string is not equal to UPPERCASE letters', () => {
-    expect(capitalize('james')).not.toBe('JAMES');
-  });
+  expect(capitalize('james')).not.toBe('JAMES');
+});
