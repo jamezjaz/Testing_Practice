@@ -23,6 +23,10 @@
   "homepage": "https://github.com/jamezjaz/Testing_Practice#readme",
   "devDependencies": {
     "@babel/preset-env": "^7.12.7",
+    "babel-eslint": "^10.1.0",
+    "eslint": "^6.8.0",
+    "eslint-config-airbnb-base": "^14.1.0",
+    "eslint-plugin-import": "^2.20.2",
     "jest": "^26.6.3"
   }
 }

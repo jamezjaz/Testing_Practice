@@ -5,9 +5,9 @@ test('return the difference between two numbers', () => {
 });
 
 test('returns a -ve value when the first number is smaller', () => {
- expect(subtract(5, 100)).toBe(-95);
+  expect(subtract(5, 100)).toBe(-95);
 });
 
 test('should fail when the value of the difference is wrong', () => {
-    expect(subtract(5, 2)).not.toBe(1);
-   });
+  expect(subtract(5, 2)).not.toBe(1);
+});

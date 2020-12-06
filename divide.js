@@ -1,5 +1,3 @@
-const divide = (k, l) => {
-  return (k / l);
-};
+const divide = (k, l) => (k / l);
 
 module.exports = divide;
